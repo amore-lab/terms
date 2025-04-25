@@ -8,7 +8,7 @@ These Terms govern your access to and use of the Services. Please read them care
 
 In these Terms, “you” and “your” means you as the user of the Services. If you use the Services on behalf of a company or other entity, then “you” includes you and that entity, and you represent and warrant that (a) you are an authorized representative of the entity with the authority to bind the entity to these Terms, and (b) you agree to these Terms on the entity’s behalf.
 
-***NOTE: THESE TERMS CONTAIN AN ARBITRATION CLAUSE AND CLASS ACTION WAIVER.***
+**_NOTE: THESE TERMS CONTAIN AN ARBITRATION CLAUSE AND CLASS ACTION WAIVER._**
 
 By agreeing to these Terms, you agree to resolve all disputes with us through binding individual arbitration. That means you also waive any right to have those disputes decided by a judge or jury, and you waive your right to participate in class actions, class arbitrations, or representative actions. You have the right to opt out of arbitration as explained below.
 
@@ -22,7 +22,7 @@ By agreeing to these Terms, you agree to resolve all disputes with us through bi
 
 **Conditions of Use**
 
-User Conduct. In addition to agreeing to comply with our Community Guidelines, which are incorporated herein, you agree to comply with the following conditions in using the Services.
+**User Conduct.** In addition to agreeing to comply with our Community Guidelines, which are incorporated herein, you agree to comply with the following conditions in using the Services.
 
 You are solely responsible for all Content you submit to the Services. (When we say “Content you submit” and similar terms, we mean anything you seek to post, transmit, or share, including but not limited to text, images, sounds, video, graphics, information, or other data.) Your use of the Services may be subject to license and use restrictions set forth in the CreativeML Open RAIL-M License. You agree not to submit any Content that:
 
@@ -86,15 +86,49 @@ You likewise agree not to do any of the following in connection with your use of
 
 (ix) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any Services source code, in whole or in part (unless a portion of code within the Services is released as open source and the open source license governing such code expressly permits reverse engineering, copying or other modification).
 
+**Item System Policy**
+
+**Item Usage and Refund Policy.** You agree to the following conditions regarding item usage and refunds:
+
+(i) Items are deducted based on their expiration date, with the soonest-to-expire items used first.
+
+(ii) Paid items, sold in fixed bundles (e.g., 125 dots per purchase), do not expire unless a future expiration policy is introduced with prior notice.
+
+(iii) If any dot from a bundle is used, the bundle is considered partially used and is no longer eligible for a refund.
+
+(iv) Upon account deletion, all data, including unused paid items, will be permanently deleted and cannot be recovered.
+
+**Free Item Provision and Expiration.** You acknowledge and agree to the following regarding free item usage:
+
+(i) dotdotdot provides users with free dots (the “items”) once per day for chatting.
+
+(ii) Free items expire 72 hours after they are granted.
+
+(iii) The quantity and availability of free items may change at any time, with prior notice.
+
+(iv) Free items have no monetary value and may not be refunded, converted to paid items or cash, or transferred to another user.
+
+(v) dotdotdot may modify, suspend, or discontinue the item system, including issuance and usage rules. Material changes will be communicated in advance via in-app notice or email. Changes will not apply retroactively without prior notice.
+
+**Abuse and Misuse of the Item System.** You agree not to engage in any of the following prohibited activities in relation to the item system:
+
+(i) Using scripts or bots to collect items.
+
+(ii) Creating multiple accounts to exploit item distribution.
+
+(iii) Exploiting bugs or system vulnerabilities.
+
+(iv) Acquiring items by any means clearly inconsistent with the intended use of the Services.
+
 **Intellectual Property Rights**
 
-Content You Submit. When you submit Content to the Services, you represent and warrant that you own all right, title and interest in and to that Content (including, without limitation, all copyrights and rights of publicity), or that you have received all necessary permissions, clearances, and authorizations in order to submit it to the Services for the uses contemplated in these Terms.
+**Content You Submit.** When you submit Content to the Services, you represent and warrant that you own all right, title and interest in and to that Content (including, without limitation, all copyrights and rights of publicity), or that you have received all necessary permissions, clearances, and authorizations in order to submit it to the Services for the uses contemplated in these Terms.
 
 When you submit such Content, you retain whatever ownership rights in that Content you had to begin with. You grant dotdotdot, to the fullest extent permitted under the law, a nonexclusive, worldwide, royalty-free, fully paid up, transferable, sublicensable, perpetual, irrevocable license to copy, display, upload, perform, distribute, transmit, make available, store, modify, exploit, commercialize and otherwise use the Content for any dotdotdot-related purpose in any form, medium or technology now known or later developed, including without limitation to operate, improve and provide the Services. You agree that these rights and licenses include a right for dotdotdot to make the Content available to, and pass these rights along to, others with whom we have contractual relationships, and to otherwise permit access to or disclose the Content to third parties if we determine such access is or may be necessary or appropriate.
 
 While we’re not required to do so, we may access, review, screen, edit, modify and delete your Content at any time and for any reason, including to provide and develop the Services or if we think the Content violates these Terms or any applicable laws.
 
-**Characters & Generations.** When you create an automated AI character ("Character") using the Services in accordance with these Terms, then as between you and dotdotdot, you own all rights in that Character. As between you and dotdotdot, you also own any text, images, audio, or video the Character generates ("Generations") that are elicited by you. You grant dotdotdot, to the fullest extent permitted under the law, a nonexclusive, worldwide, royalty-free, fully paid up, transferable, sublicensable, perpetual, irrevocable license to copy, display, upload, perform, distribute, transmit, make available, store, access, modify, exploit, commercialize and otherwise use the Character and all Generations elicited by you for any purpose in any form, medium or technology now known or later developed, including but not limited to (i) facilitating other users’ ability to interact with the Character and elicit Generations, and (ii) promoting the Services on- or off-platform.
+**Characters & Generations.** When you create an automated AI character (“Character”) using the Services in accordance with these Terms, then as between you and dotdotdot, you own all rights in that Character. As between you and dotdotdot, you also own any text, images, audio, or video the Character generates (“Generations”) that are elicited by you. You grant dotdotdot, to the fullest extent permitted under the law, a nonexclusive, worldwide, royalty-free, fully paid up, transferable, sublicensable, perpetual, irrevocable license to copy, display, upload, perform, distribute, transmit, make available, store, access, modify, exploit, commercialize and otherwise use the Character and all Generations elicited by you for any purpose in any form, medium or technology now known or later developed, including but not limited to (i) facilitating other users’ ability to interact with the Character and elicit Generations, and (ii) promoting the Services on- or off-platform.
 
 When you interact with a Character created by dotdotdot or created by another user who utilized the Services in accordance with the then-applicable Terms, then you own Generations that are elicited by you from such Character (but not the Character itself or other Generations or other Content, all of which will remain owned by dotdotdot or the other third-party owner(s) thereof, as applicable). You grant dotdotdot, to the fullest extent permitted under the law, a nonexclusive, worldwide, royalty-free, fully paid up, transferable, sublicensable, perpetual, irrevocable license to copy, display, upload, perform, distribute, transmit, make available, store, access, modify, exploit, commercialize and otherwise use the Generations elicited by you for any purpose in any form, medium or technology now known or later developed, including but not limited to (i) facilitating other users’ ability to interact with the Character and elicit Generations, and (ii) promoting the Services on- or off-platform.
 
@@ -108,9 +142,7 @@ You acknowledge and agree that any questions, comments, suggestions, ideas, feed
 
 You acknowledge and agree that we may preserve content and metadata in compliance with applicable law and our Privacy Policy. You acknowledge and agree that we may disclose content and/or metadata if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process, applicable laws or government requests; (b) enforce these Terms; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of dotdotdot, its users and the public.
 
-**Copyright Complaints**
-
-dotdotdot respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify dotdotdot of your infringement claim in accordance with the procedure set forth below.
+**Copyright Complaints.** dotdotdot respects the intellectual property of others, and we ask our users to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, you should notify dotdotdot of your infringement claim in accordance with the procedure set forth below.
 
 **DMCA Notices.** Mruo will process and investigate notices of alleged infringement and will take appropriate actions under the Digital Millennium Copyright Act (“DMCA”) and other applicable intellectual property laws with respect to any alleged or actual infringement.
 
@@ -118,7 +150,7 @@ A written notification of claimed copyright infringement should be mailed to:
 
 30 N Gould St Ste R, Sheridan, Wyoming 82801
 
-You can also submit a DMCA request through our email at : hello@amore-lab.com
+You can also submit a DMCA request through our email at : support@dotdotdot.chat
 
 To be effective, the notification must be in writing and contain the following information:
 
@@ -134,7 +166,7 @@ A statement by you that you have a good faith belief that the disputed use is no
 
 A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.
 
-*Counter-Notices. If you believe that your Content was removed or disabled due to a DMCA notice, and you believe the Content is not infringing, you may send us a written counter-notice containing the following information:*
+_Counter-Notices. If you believe that your Content was removed or disabled due to a DMCA notice, and you believe the Content is not infringing, you may send us a written counter-notice containing the following information:_
 
 Your physical or electronic signature;
 
@@ -150,13 +182,9 @@ If we receive a counter-notice, we will send a copy of the counter-notice to the
 
 **Repeat Infringer Policy**. In accordance with the DMCA and other applicable law, dotdotdot has adopted a policy of terminating, in appropriate circumstances and at our sole discretion, users who are deemed to be repeat infringers. dotdotdot may also at its sole discretion limit access to the Services or terminate the registrations of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
-Third Party Websites and Services
+**Third Party Websites and Services.** The Services or third parties may provide links or other access to other sites and resources on the Internet or to third-party applications. dotdotdot has no control over such sites, resources or applications and dotdotdot is not responsible for and does not endorse them. You acknowledge and agree that dotdotdot will not be responsible or liable, directly or indirectly, for any damage or loss caused by reliance on any content, events, goods or services available on or through any such sites, resources or applications. Any dealings you have with third parties found while using the Services are between you and the third party, and you agree that dotdotdot is not liable for any loss or claim that you may have against any such third party.
 
-The Services or third parties may provide links or other access to other sites and resources on the Internet or to third-party applications. dotdotdot has no control over such sites, resources or applications and dotdotdot is not responsible for and does not endorse them. You acknowledge and agree that dotdotdot will not be responsible or liable, directly or indirectly, for any damage or loss caused by reliance on any content, events, goods or services available on or through any such sites, resources or applications. Any dealings you have with third parties found while using the Services are between you and the third party, and you agree that dotdotdot is not liable for any loss or claim that you may have against any such third party.
-
-**Indemnity and Release**
-
-You agree to release, indemnify and hold dotdotdot and its affiliates and their officers, employees, directors and agents harmless from any and all losses, damages, and expenses of any kind arising out of or relating to your use of the Services. Without limiting the foregoing, the release and indemnification described above includes reasonable attorneys’ fees, rights, claims, actions of any kind and injury (including death) arising out of or relating to your use of the Services.
+**Indemnity and Release.** You agree to release, indemnify and hold dotdotdot and its affiliates and their officers, employees, directors and agents harmless from any and all losses, damages, and expenses of any kind arising out of or relating to your use of the Services. Without limiting the foregoing, the release and indemnification described above includes reasonable attorneys’ fees, rights, claims, actions of any kind and injury (including death) arising out of or relating to your use of the Services.
 
 If you are a California resident, you waive California Civil Code Section 1542, which says:
 
@@ -164,13 +192,9 @@ A general release does not extend to claims that the creditor or releasing party
 
 If you are a resident of another jurisdiction, you waive any comparable statute or doctrine.
 
-**Disclaimer of Warranty**
+**Disclaimer of Warranty.** Your use of the Services is at your sole risk. The site is provided on an “AS IS” and “AS AVAILABLE” basis. dotdotdot expressly disclaims all warranties of any kind, whether express, implied or statutory, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. dotdotdot makes no warranty that (i) the Services will meet your requirements, (ii) the Services will be uninterrupted, timely, secure, or error-free, or (iii) the results that may be obtained from the use of the Services will be accurate or reliable.
 
-Your use of the Services is at your sole risk. The site is provided on an “AS IS” and “AS AVAILABLE” basis. dotdotdot expressly disclaims all warranties of any kind, whether express, implied or statutory, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. dotdotdot makes no warranty that (i) the Services will meet your requirements, (ii) the Services will be uninterrupted, timely, secure, or error-free, or (iii) the results that may be obtained from the use of the Services will be accurate or reliable.
-
-**Limitation of Liability**
-
-You understand and agree that dotdotdot will not be liable for any indirect, incidental, special, consequential, or exemplary damages, or damages for loss of profits including but not limited to damages for loss of goodwill, use, data or other intangible losses (even if dotdotdot has been advised of the possibility of such damages), whether based on contract, tort, negligence, strict liability or otherwise, resulting from: (i) the use or the inability to use the Services; (ii) your access, use, creation of, or interaction with any Content, Character or Generations; (iii) your sharing with any third party of any Content, Character or Generations; (iv) unauthorized access to or alteration of your transmissions or data; (v) statements or conduct of any third party (including users) on the Services; or (vi) any other matter relating to the Services. In no event will dotdotdot’s total liability to you for all damages, losses or causes of action exceed the greater of: (i) $100; or (ii) the amount you paid dotdotdot (if any) in connection with your use of the Services.
+Limitation of Liability. \*\*\*\*You understand and agree that dotdotdot will not be liable for any indirect, incidental, special, consequential, or exemplary damages, or damages for loss of profits including but not limited to damages for loss of goodwill, use, data or other intangible losses (even if dotdotdot has been advised of the possibility of such damages), whether based on contract, tort, negligence, strict liability or otherwise, resulting from: (i) the use or the inability to use the Services; (ii) your access, use, creation of, or interaction with any Content, Character or Generations; (iii) your sharing with any third party of any Content, Character or Generations; (iv) unauthorized access to or alteration of your transmissions or data; (v) statements or conduct of any third party (including users) on the Services; or (vi) any other matter relating to the Services. In no event will dotdotdot’s total liability to you for all damages, losses or causes of action exceed the greater of: (i) $100; or (ii) the amount you paid dotdotdot (if any) in connection with your use of the Services.
 
 Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the limitations set forth above may not apply to you. If you are dissatisfied with any portion of the site or with these terms of use, your sole and exclusive remedy is to discontinue use of the Services.
 
@@ -182,7 +206,7 @@ This section affects your rights so please read it carefully.
 
 **Prohibition of Class and Representative Actions and Non-Individualized Relief**. You and dotdotdot agree that each of us may bring claims against the other only on an individual basis and not as a plaintiff or class member in any purported class or representative action or proceeding. Unless both you and dotdotdot agree otherwise, the arbitrator may not consolidate or join more than one person’s or party’s claims and may not otherwise preside over any form of a consolidated, representative, or class proceeding. Also, the arbitrator may award relief (including monetary, injunctive, and declaratory relief) only in favor of the individual party seeking relief and only to the extent necessary to provide relief necessitated by that party’s individual claims.
 
-**Pre-Arbitration Dispute Resolution.** dotdotdot is always interested in resolving disputes amicably and fairly, and so if you have concerns, we strongly encourage you to first contact us about them at hello@amore-lab.com. If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to dotdotdot should be sent to: 30 N Gould St Ste R, Sheridan, Wyoming 82801 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If dotdotdot and you do not resolve the claim within 60 calendar days after the Notice is received, you or dotdotdot may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by dotdotdot or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or dotdotdot is entitled.
+**Pre-Arbitration Dispute Resolution.** dotdotdot is always interested in resolving disputes amicably and fairly, and so if you have concerns, we strongly encourage you to first contact us about them at [support@dotdotdot.chat](mailto:support@dotdotdot.chat) . If such efforts prove unsuccessful, a party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute (“Notice”). The Notice to dotdotdot should be sent to: 30 N Gould St Ste R, Sheridan, Wyoming 82801 (“Notice Address”). The Notice must (i) describe the nature and basis of the claim or dispute and (ii) set forth the specific relief sought. If dotdotdot and you do not resolve the claim within 60 calendar days after the Notice is received, you or dotdotdot may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by dotdotdot or you shall not be disclosed to the arbitrator until after the arbitrator determines the amount, if any, to which you or dotdotdot is entitled.
 
 **Arbitration Procedures**. Arbitration will be conducted by a neutral arbitrator in accordance with JAMS’ Streamlined Arbitration Rules and Procedures (collectively, the “JAMS Rules”), as modified by this Arbitration Agreement. For information on JAMS, please visit its website, https://www.jamsadr.com. If there is any inconsistency between any term of the JAMS Rules and any term of this Arbitration Agreement, the applicable terms of this Arbitration Agreement will control unless the arbitrator determines that the application of the inconsistent Arbitration Agreement terms would not result in a fundamentally fair arbitration. The arbitrator must also follow the provisions of these Terms as a court would. All issues are for the arbitrator to decide, including, but not limited to, issues relating to the scope, enforceability, and arbitrability of this Arbitration Agreement. Although arbitration proceedings are usually simpler and more streamlined than trials and other judicial proceedings, the arbitrator can award the same damages and relief on an individual basis that a court can award to an individual under the Terms and applicable law. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons.
 
@@ -224,4 +248,4 @@ We reserve the right, at our sole discretion, to change or modify portions of th
 
 **Contact Us**
 
-If you have any questions about our Services, or to report any violations of these Terms, please contact us at admin@amore-lab.com
+If you have any questions about our Services, or to report any violations of these Terms, please contact us at support@dotdotdot.chat
